@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Have searchwp index wpbakery rawhtml
-Plugin URI: https://wordpresscoder.nl
+Plugin URI: https://github.com/joerivanveen/have-searchwp-index-wpbakery-rawhtml
 Description: When you discover that content in rawhtml blocks is not found on your site, switch on this plugin.
 Version: 1.0.0
-Author: Ruige hond
-Author URI: https://ruigehond.nl
+Author: Joeri van Veen
+Author URI: https://customwordpressplugin.com/
 License: GPLv3
 Text Domain: have-searchwp-index-wpbakery-rawhtml
 Domain Path: /languages/
